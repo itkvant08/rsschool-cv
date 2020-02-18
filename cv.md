@@ -45,3 +45,7 @@ print('''</table>
     </body>
 </html>''', file=fout)
 fout.close()
+
+6. Not much experience in web-development.
+7. I have graduated from National Research Nuclear University in 2012. My major was solid state physics. I'm training on HTMLacademy, Codewars, w3schools.com.
+8. I've translated dozens of scientific papers from english to russian.
